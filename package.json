@@ -1,7 +1,7 @@
 {
 	"name": "grunt-util-required",
 	"description": "Grunt util for checking required properties",
-	"version": "0.0.1-0",
+	"version": "0.0.1",
 	"author": {
 		"name": "Mikael Karon",
 		"email": "mikael@karon.se"
