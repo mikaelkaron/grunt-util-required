@@ -1,0 +1,32 @@
+{
+	"name": "grunt-util-required",
+	"description": "Grunt util for checking required properties",
+	"version": "0.0.1-0",
+	"author": {
+		"name": "Mikael Karon",
+		"email": "mikael@karon.se"
+	},
+	"maintainers": [
+		{
+			"name": "Mikael Karon",
+			"web": "http://github.com/mikaelkaron"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mikaelkaron/grunt-util-required.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mikaelkaron/grunt-util-required/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://mikael.mit-license.org/"
+		}
+	],
+	"main": "main.js",
+	"peerDependencies": {
+		"grunt": "~0.4.1"
+	}
+}
